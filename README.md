@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michele
 - 👀 I’m interested in programming and problem-solving in general
-- 🌱 I’m currently learning Rust
+- 🌱 I’m working at university of Parma
 - 📫 My mail is bandini.m@outlook.it
 
 <!---
